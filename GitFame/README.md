@@ -1,5 +1,5 @@
  ## Test of using Gif Fame
- * https://github.com/casperdcl/git-fame
+ *  [gitfame](https://github.com/casperdcl/git-fame) library
 
  * install gitfame 
  
@@ -19,4 +19,4 @@
  >
  > `>>> gitfame.main(['--sort=commits', '-wt', '/path/to/gitrepoFolder'])`
 
-* (reference)[https://www.mankier.com/1/git-fame#Examples_(TL;DR)]
+* [reference](https://www.mankier.com/1/git-fame#Examples_(TL;DR))
