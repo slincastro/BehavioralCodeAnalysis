@@ -2,13 +2,14 @@
  * https://github.com/casperdcl/git-fame
 
  * install gitfame 
- ` pip3 install "git+https://github.com/casperdcl/git-fame.git@master#egg=git-fame"`
+ 
+ > `> pip3 install "git+https://github.com/casperdcl/git-fame.git@master#egg=git-fame"`
+
  * run python script :
 
  > `> export gitfamepath=your/path/to/repo`
 
  > `> python3 GitFame/Gitfame.py `
- 
  
  * In try Python shell script
 
